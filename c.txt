@@ -1,2 +1,2 @@
 alice line
-bob file
+bob file - alice c2
